@@ -28,7 +28,6 @@
   -  Introducing user rating systems and transaction history to increase trust within the community.
   -  Creating an easy-to-use and enjoyable interface for both mobile and web applications.
   -  Enabling secure online transactions through integration with popular payment systems.
-  -  Allowing the team to develop skills in the technologies used in the project.
     
 ## 🤝 Contributing
 We welcome new ideas and contributions! If you have suggestions for new features or improvements, please open an issue or create a pull request.
