@@ -28,6 +28,9 @@
   -  Introducing user rating systems and transaction history to increase trust within the community.
   -  Creating an easy-to-use and enjoyable interface for both mobile and web applications.
   -  Enabling secure online transactions through integration with popular payment systems.
+
+## 📍 Figma 
+[Click here](https://www.figma.com/board/8bMrGg35HSoWzUhoRv9LPu/Untitled?node-id=0-1&t=WRaU256lDLMVqrq8-1])
     
 ## 🤝 Contributing
 We welcome new ideas and contributions! If you have suggestions for new features or improvements, please open an issue or create a pull request.
